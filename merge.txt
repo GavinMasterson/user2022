@@ -1,2 +1,4 @@
 Merge conflict text
 More content
+My content is better
+
